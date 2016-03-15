@@ -2,7 +2,7 @@
 (defpackage poker-test
   (:use :cl
         :poker
-        :poker.engine.hand
+        :poker.hand
         :prove))
 (in-package :poker-test)
 
